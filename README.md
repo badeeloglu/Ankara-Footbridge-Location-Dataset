@@ -1,6 +1,6 @@
 # Ankara-Footbridge-Location-Dataset
 A CSV file containing 310 rows and 11 columns of binary, categorical and numerical data
-
+The dataset is archived and citable via Zenodo: https://doi.org/10.5281/zenodo.15662551
 
 # Ankara Footbridge Location Dataset
 
